@@ -42,5 +42,8 @@ I’m a passionate innovator in applied AI, transforming cutting-edge research i
 ## Let’s Collaborate  
 I’m open to collaborations in generative AI, document intelligence, computer vision, or real-time ML deployment. Whether it’s research, engineering, or product development, let’s create something groundbreaking together!  
 
-**Contact**: Chennai, India · [LinkedIn](#) · [GitHub](#) · [Email](mailto:vijay.ai.engineer@gmail.com)  
-**Always building, always innovating.**
+
+
+** Location:** Chennai, India
+** Contact:** [GitHub](https://github.com/vijaychandar186) · [Email](mailto:vijaychandar186@gmail.com)
+** Motto:** Always building, always innovating.
