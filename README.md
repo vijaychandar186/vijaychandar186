@@ -66,7 +66,7 @@ I’m open to working on applied AI problems in **generative modeling**, **docum
 ---
 
 ## 📫 Contact  
-**📍 Location:** Chennai, India  
+**📍 Location:** Philadelphia, USA  
 **🔗 GitHub:** [vijaychandar186](https://github.com/vijaychandar186)  
 **✉️ Email:** [vijaychandar186@gmail.com](mailto:vijaychandar186@gmail.com)  
 **⚡ Motto:** Always building, always innovating.
