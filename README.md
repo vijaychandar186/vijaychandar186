@@ -1,6 +1,6 @@
 # Vijay - Full-Stack AI Engineer  
-**📍 Location:** Chennai, India  
-**🎓 Role:** Senior Full-Stack ML Engineer | Age 22  
+**📍 Location:** Philadelphia, USA  
+**🎓 Role:** Full-Stack ML Engineer | Age 23  
 **🔍 Focus:** Architecting scalable, research-driven AI systems — from foundational model development to real-time, production-ready applications.
 
 ---
